@@ -53,11 +53,11 @@ Welcome to the Hospital System repository! This project implements a simple syst
 3. **Sample Interaction:**
  - Enter your choice:
 
-- **Add new patient
-- **Print all patients
-- **Get next patient
-- **Exit
- - **Please enter one number from above
+- Add new patient
+- Print all patients
+- Get next patient
+- Exit
+ - Please enter one number from above
 
 Enter the relevant information as prompted.
 
